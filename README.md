@@ -32,7 +32,7 @@ This project demonstrates how to perform CRUD (Create, Read, Update, Delete) ope
 ### 1. List Pods (Read Operation)
 To list all pods in the cluster, run:
    ```sh
-   go run list.go
+   go run readPods.go
    ```
 #### Expected Output:
    ```sh
